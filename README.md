@@ -1,8 +1,8 @@
 # AmirGh08
 
-#امیر حسین قدرتی 
+# امیر حسین قدرتی 
 
-#Quine-McCluskey
+# Quine-McCluskey
 
 پروژه پیاده‌سازی الگوریتم Quine-McCluskey که برای ساده‌سازی توابع بولی (منطقی) به‌صورت SOP (Sum of Products) استفاده میشه. 
 
